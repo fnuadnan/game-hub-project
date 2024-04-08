@@ -1,4 +1,5 @@
 import { ChakraProvider, ColorModeScript } from "@chakra-ui/react";
+import "bootstrap/dist/css/bootstrap.css";
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App.tsx";
